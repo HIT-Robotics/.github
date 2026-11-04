@@ -1,4 +1,4 @@
-
+<img src="assets/HIT-LOGO-GANZ.jpg" alt="HIT Logo" style="width: auto; height: 200px;">
 # HIT-Robotics (Heilbronn Institute of Technology)
 
 Welcome to the official Hugging Face organization of **HIT-Robotics**, based at the Heilbronn Institute of Technology (HHN - Heilbronn University of Applied Sciences).
