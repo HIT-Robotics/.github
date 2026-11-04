@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="assets/HIT-LOGO-GANZ.jpg" alt="HIT Logo" height="200">
-</p>
+<img src="assets/HIT-LOGO-GANZ.jpg" alt="HIT Logo" height="200">
+
 
 # HIT-Robotics (Heilbronn Institute of Technology)
 
