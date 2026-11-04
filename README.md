@@ -1,6 +1,4 @@
 <img src="assets/HIT-LOGO-GANZ.jpg" alt="HIT Logo" height="200">
-
-
 # HIT-Robotics (Heilbronn Institute of Technology)
 
 Welcome to the official GitHub organization of **HIT-Robotics**, based at the Heilbronn Institute of Technology (HHN - Heilbronn University of Applied Sciences).
