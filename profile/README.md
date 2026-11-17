@@ -22,6 +22,7 @@ Our core areas of focus include:
 - **Embodied AI & VLM/VLA Models:** Fine-tuning and deploying Vision-Language-Action models for real-world robotic control and decision-making.
 - **Collaborative Robotics (Cobots):** Safe human-robot interaction and adaptive task execution.
 - **Industrial Robotics:** Modern manufacturing, programming, and automated pick-and-place applications.
+- **Parallel Robots:** Create dynamic models of parallel robots based on a URDF based description and include it into the ROS2 ecosystem
 
 Students and researchers work side-by-side in state-of-the-art laboratories, developing open-source models, datasets, and end-to-end robotics applications.
 
@@ -33,9 +34,7 @@ We foster strong ties with regional and international industry leaders, research
 
 - **SCHUNK Greiftechnik**
 - **autonox Robotics**
-- **Mitsubishi Electric**
 - **SEW-EURODRIVE**
-- **OPTIMA Pharma**
 - **ZEBRA Engineering**
 - **Ansmann AG**
 
